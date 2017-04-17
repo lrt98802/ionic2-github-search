@@ -21,5 +21,4 @@ An Ionic app that provides an easy-to-use API to search for public repository by
   -----
   # start server
   ionic serve
-  ```
 ```
