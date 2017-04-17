@@ -10,7 +10,7 @@ An Ionic app that provides an easy-to-use API to search for public repository by
 * npm >= 3.X
 
 
-## Installing
+## How to Run
 
 ```bash
   # Clone the repo
