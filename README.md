@@ -12,13 +12,41 @@ An Ionic app that provides an easy-to-use API to search for public repository by
 
 ## How to Run
 
+Clone the repo
 ```bash
-  # Clone the repo
   $ git clone https://github.com/lrt98802/ionic2-github-search.git
-  -----
-  # change directory to our repo
-  cd ionic2-github-search
-  -----
-  # start server
-  ionic serve
 ```
+
+change directory to our repo
+```bash
+  $ cd ionic2-github-search
+```
+start server
+```bash
+  $ ionic serve
+```
+
+## Run on Android
+
+Add the Android platform
+```bash
+  $ ionic platform add android
+```
+
+Build it 
+
+```bash
+  $ ionic build android
+```
+
+Set up the Cordova
+
+```bash
+  $ cordova prepare
+```
+
+Run it!
+```bash
+  $ ionic run android
+```
+
